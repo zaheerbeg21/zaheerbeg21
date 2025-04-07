@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am working as product owner cum developer cum tester cum odoo developer cum opencv engineer.<br>A father of daughter and son . 
-Product Owner | Python Developer | Odoo Functinal Developer | OpenCV Engineer
-Proud father of a GenZ daughter and GenAlpha son Passionate about building smart solutions that blend tech, logic, and creativity
+Product Owner | Python Developer | Odoo Functinal Developer | OpenCV Engineer<br>
+Proud father of a GenZ daughter and GenAlpha son Passionate about building smart solutions that blend tech, logic, and creativity<br>
 
 
 ## 🌐 Socials:
