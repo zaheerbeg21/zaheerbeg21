@@ -16,6 +16,13 @@ I combine roles as a Product Owner, Python Developer, Odoo Functional & Technica
 - Designed and deployed scalable cloud-based ERP architectures<br>
 - Integrated AI (OCR & detection systems) into ERP workflows<br><br>
 
+📂 Portfolio Projects:<br>
+🔹 Automated ERP Deployment Pipeline<br>
+- Containerized Odoo deployment using Docker Compose<br>
+- Integrated Git-based auto deployment via Coolify<br>
+- Reduced manual deployment effort significantly<br><br>
+
+
 💡 Passion:<br>
 I love building production-ready systems that combine DevOps, AI, and business logic to create efficient and scalable solutions.<br>
 Especially enjoy deploying and managing applications using Coolify 🚀<br><br>
