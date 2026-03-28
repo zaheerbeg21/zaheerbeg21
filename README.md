@@ -1,8 +1,28 @@
 # 💫 About Me:
-I am opencv engineer and product owner combined with developer and tester cum odoo developer.<br>A father of daughter and son . 
-Product Owner | Python Developer | Odoo Functinal Developer | OpenCV Engineer<br>
-Love to Coolify Applications<br>
-Proud father of a GenZ daughter and GenAlpha son Passionate about building smart solutions that blend tech, logic, and creativity<br>
+I am a DevOps Engineer with 7+ years of overall software development experience and 2+ years specializing in ERP systems and cloud infrastructure.<br>
+
+I combine roles as a Product Owner, Python Developer, Odoo Functional & Technical Developer, and OpenCV Engineer — bringing a full lifecycle approach from idea to production.<br><br>
+
+🔧 Core Expertise:<br>
+- Containerized deployments using Docker & Docker Compose<br>
+- Cloud infrastructure on AWS & Microsoft Azure<br>
+- ERP systems development and deployment (Odoo)<br>
+- Automated deployments using Coolify<br>
+- Infrastructure as Code using Terraform<br>
+- Version control and CI/CD workflows using Git<br><br>
+
+🚀 Key Highlights:<br>
+- Built automated ERP deployment pipelines integrated with Git-based workflows<br>
+- Designed and deployed scalable cloud-based ERP architectures<br>
+- Integrated AI (OCR & detection systems) into ERP workflows<br><br>
+
+💡 Passion:<br>
+I love building production-ready systems that combine DevOps, AI, and business logic to create efficient and scalable solutions.<br>
+Especially enjoy deploying and managing applications using Coolify 🚀<br><br>
+
+👨‍👧‍👦 Beyond Tech:<br>
+Proud father of a Gen Z daughter and a Gen Alpha son.<br>
+Passionate about building smart solutions that blend technology, logic, and creativity.
 
 
 ## 🌐 Socials:
