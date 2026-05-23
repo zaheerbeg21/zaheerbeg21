@@ -31,7 +31,7 @@ Business workflow automation
 - Containerized Odoo deployment using Docker Compose<br>
 - Integrated Git-based auto deployment via Coolify<br>
 - Reduced manual deployment effort significantly<br><br>
-
+<br>
 # Featured DevOps Projects:
 🔹 Automated ERP CI/CD Deployment Pipeline
 Built fully automated Odoo deployment pipelines
@@ -39,10 +39,12 @@ Containerized services using Docker Compose
 Implemented Git-triggered auto deployments via Coolify
 Reduced deployment downtime and manual intervention
 Managed production-ready PostgreSQL & Nginx setup
+<br>
 🔹 Cloud-Based ERP Infrastructure
 Designed scalable ERP hosting architecture on AWS/Azure
 Configured secure reverse proxy and container networking
 Implemented infrastructure provisioning using Terraform
+<br>
 🔹 AI + ERP Automation System
 Integrated OCR & OpenCV workflows into ERP operations
 Automated document processing and detection pipelines
