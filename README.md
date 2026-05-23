@@ -32,7 +32,7 @@ Business workflow automation
 - Integrated Git-based auto deployment via Coolify<br>
 - Reduced manual deployment effort significantly<br><br>
 <br>
-# Featured DevOps Projects:
+# Featured DevOps Projects:<br>
 🔹 Automated ERP CI/CD Deployment Pipeline
 Built fully automated Odoo deployment pipelines
 Containerized services using Docker Compose
