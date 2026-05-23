@@ -1,31 +1,61 @@
-# 💫 About Me:
-I am a DevOps Engineer with 7+ years of overall software development experience and 1+ years specializing in ERP systems and cloud infrastructure.<br>
+# About Me:
+DevOps Engineer with 7+ years of software development experience and 1+ years specializing in cloud infrastructure, CI/CD automation, containerized deployments, and ERP systems.
 
-I combine roles as a Product Owner, Python Developer, Odoo Functional & Technical Developer, and OpenCV Engineer — bringing a full lifecycle approach from idea to production.<br><br>
+Experienced in designing scalable deployment architectures using Docker, Git-based CI/CD workflows, AWS, Azure, and Infrastructure as Code (Terraform). Passionate about automating application delivery pipelines and building production-ready cloud environments.<br><br>
 
-🔧 Core Expertise:<br>
-- Containerized deployments using Docker & Docker Compose<br>
-- Cloud infrastructure on AWS & Microsoft Azure<br>
-- ERP systems development and deployment (Odoo)<br>
-- Automated deployments using Coolify<br>
-- Infrastructure as Code using Terraform<br>
-- Version control and CI/CD workflows using Git<br><br>
+# DevOps & Cloud Expertise:
+CI/CD pipeline automation using Git-based workflows
+Containerized deployments using Docker & Docker Compose
+Cloud infrastructure deployment on AWS & Microsoft Azure
+Infrastructure as Code (IaC) using Terraform
+Reverse proxy & web server configuration using Nginx
+Automated self-hosted deployments using Coolify
+Linux server administration & production deployments
+Monitoring & observability using Grafana
+Version control and branching strategies using Git & GitHub
 
-🚀 Key Highlights:<br>
+# ERP & Development Expertise:
+Odoo ERP development, deployment & customization
+Python backend development
+REST API integrations
+AI integrations using OCR & Computer Vision
+PostgreSQL & database management
+Business workflow automation
+# Key Highlights:<br>
 - Built automated ERP deployment pipelines integrated with Git-based workflows<br>
 - Designed and deployed scalable cloud-based ERP architectures<br>
 - Integrated AI (OCR & detection systems) into ERP workflows<br><br>
 
-📂 Portfolio Projects:<br>
+# Portfolio Projects:<br>
 🔹 Automated ERP Deployment Pipeline<br>
 - Containerized Odoo deployment using Docker Compose<br>
 - Integrated Git-based auto deployment via Coolify<br>
 - Reduced manual deployment effort significantly<br><br>
 
+# Featured DevOps Projects:
+🔹 Automated ERP CI/CD Deployment Pipeline
+Built fully automated Odoo deployment pipelines
+Containerized services using Docker Compose
+Implemented Git-triggered auto deployments via Coolify
+Reduced deployment downtime and manual intervention
+Managed production-ready PostgreSQL & Nginx setup
+🔹 Cloud-Based ERP Infrastructure
+Designed scalable ERP hosting architecture on AWS/Azure
+Configured secure reverse proxy and container networking
+Implemented infrastructure provisioning using Terraform
+🔹 AI + ERP Automation System
+Integrated OCR & OpenCV workflows into ERP operations
+Automated document processing and detection pipelines
 
-💡 Passion:<br>
-I love building production-ready systems that combine DevOps, AI, and business logic to create efficient and scalable solutions.<br>
-Especially enjoy deploying and managing applications using Coolify 🚀<br><br>
+# What I Enjoy Building:
+DevOps automation pipelines
+Cloud-native deployment systems
+Dockerized applications
+ERP infrastructure architectures
+CI/CD workflows
+AI-powered business automation solutions
+
+Especially passionate about self-hosted deployment platforms like Coolify
 
 👨‍👧‍👦 Beyond Tech:<br>
 Proud father of a Gen Z daughter and a Gen Alpha son.<br>
