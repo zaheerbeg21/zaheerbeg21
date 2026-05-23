@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a DevOps Engineer with 7+ years of overall software development experience and 2+ years specializing in ERP systems and cloud infrastructure.<br>
+I am a DevOps Engineer with 7+ years of overall software development experience and 1+ years specializing in ERP systems and cloud infrastructure.<br>
 
 I combine roles as a Product Owner, Python Developer, Odoo Functional & Technical Developer, and OpenCV Engineer — bringing a full lifecycle approach from idea to production.<br><br>
 
