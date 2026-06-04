@@ -82,9 +82,7 @@ Same core pattern (`[Proxy] → [ERP + Frontend + GPS + Offline Sync] → Postgr
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerbeg21&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerbeg21&layout=compact)
+![snake gif](https://github.com/zaheerbeg21/zaheerbeg21/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect
