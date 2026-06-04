@@ -2,7 +2,7 @@
 
 **DevOps Engineer** · Mumbai, India · [LinkedIn](https://www.linkedin.com/in/zaheer-beg-a21770ab/) · [Email](mailto:zaheerbeg21@gmail.com)
 
-7+ years in software development, 1+ year specializing in **cloud infrastructure, CI/CD automation, and containerized production deployments** across AWS, Azure, and on-premise environments. I build and ship real systems — not tutorials.
+Software Engineer with 7+ years of experience building, deploying, and operating production applications across AWS, Azure, and self-hosted environments. Experienced in Docker, Nginx, PostgreSQL, Redis, FastAPI, Odoo, and cloud infrastructure, with a focus on platform operations, deployment automation, and production reliability. Proven experience supporting enterprise workloads and multi-service architectures in real-world deployments.
 
 ---
 
