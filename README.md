@@ -82,7 +82,8 @@ Same core pattern (`[Proxy] → [ERP + Frontend + GPS + Offline Sync] → Postgr
 ---
 
 ## 📊 GitHub Stats
-![snake gif](https://github.com/zaheerbeg21/zaheerbeg21/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/zaheerbeg21/zaheerbeg21/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect
