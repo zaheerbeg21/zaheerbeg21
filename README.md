@@ -15,8 +15,9 @@ Software Engineer with 7+ years of experience building, deploying, and operating
 | 3 | [azure-fastapi-redis-stack](https://github.com/zaheerbeg21/azure-fastapi-redis-stack) | Social Impact Platform | Azure VM · FastAPI · Next.js · PostgreSQL 15 · Redis 7 · Coolify | Full-stack · async API |
 | 4 | [coolify-odoo-azure-deploy](https://github.com/zaheerbeg21/coolify-odoo-azure-deploy) | Facility Management | Azure VM · Odoo 18 · PostgreSQL 16 · Coolify · Traefik | 99% uptime SLA |
 | 5 | [traefik-microservices-selfhosted](https://github.com/zaheerbeg21/traefik-microservices-selfhosted) | Field Services (Europe) | Coolify · Traefik · 4-service microstack · PostgreSQL | Self-hosted · Auto-SSL |
+| 6 | [aws-rds-multitenant-erp-iac](https://github.com/zaheerbeg21/aws-rds-multitenant-erp-iac) | Manufacturing (IaC practice) | Terraform · AWS EC2 · RDS · S3 | Infra-as-code re-implementation of #2 |
 
-**5 production systems · 3 cloud providers (AWS, Azure, Self-hosted) · 4 enterprise clients**
+**6 production systems · 3 cloud providers (AWS, Azure, Self-hosted) · 4 enterprise clients**
 
 ---
 
